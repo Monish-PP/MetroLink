@@ -29,7 +29,7 @@ export default function Settings() {
                         <div className="space-y-4">
                             <div>
                                 <label className="block text-sm text-slate-500 mb-1">System Name</label>
-                                <input type="text" defaultValue="Metrolink Autonomous Transit" className="w-full bg-slate-100 border border-slate-200 rounded-lg p-2 text-slate-900 focus:outline-none focus:border-cyan-500" />
+                                <input type="text" defaultValue="CableSense Autonomous Transit" className="w-full bg-slate-100 border border-slate-200 rounded-lg p-2 text-slate-900 focus:outline-none focus:border-cyan-500" />
                             </div>
                             <div>
                                 <label className="block text-sm text-slate-500 mb-1">Timezone</label>

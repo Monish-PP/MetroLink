@@ -32,7 +32,7 @@ export default function Sidebar() {
         <aside className="w-64 glass-panel border-y-0 border-l-0 rounded-none h-full flex flex-col z-20">
             <div className="h-16 flex items-center px-6 border-b border-slate-200/50">
                 <Activity className="text-cyan-600 mr-3" size={24} />
-                <h1 className="text-lg font-bold text-slate-800 tracking-wider">METROLINK <span className="font-light text-cyan-600 text-xs block -mt-1">AUTONOMOUS</span></h1>
+                <h1 className="text-lg font-bold text-slate-800 tracking-wider">CABLESENSE <span className="font-light text-cyan-600 text-xs block -mt-1">AUTONOMOUS</span></h1>
             </div>
             
             <div className="flex-1 overflow-y-auto py-6 space-y-8 no-scrollbar">

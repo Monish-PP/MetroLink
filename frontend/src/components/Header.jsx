@@ -100,7 +100,7 @@ export default function Header() {
                         <div className="absolute right-0 mt-3 w-48 bg-white border border-slate-200 shadow-xl rounded-lg py-1 z-50">
                             <div className="px-4 py-2 border-b border-slate-200 mb-1">
                                 <p className="text-sm text-slate-900 font-bold">System Admin</p>
-                                <p className="text-xs text-slate-500">admin@metrolink.com</p>
+                                <p className="text-xs text-slate-500">admin@cablesense.com</p>
                             </div>
                             <div className="px-2 py-1 cursor-pointer hover:bg-slate-300/50 text-sm flex items-center" onClick={() => { navigate('/profile'); setShowProfile(false); }}>
                                 <User size={14} className="mr-2 text-slate-500" /> My Profile

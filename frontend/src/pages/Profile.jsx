@@ -12,7 +12,7 @@ export default function Profile() {
                     </div>
                     <div>
                         <h2 className="text-2xl font-bold text-slate-900">System Admin</h2>
-                        <p className="text-slate-500 flex items-center mt-1"><Mail size={14} className="mr-2" /> admin@metrolink.com</p>
+                        <p className="text-slate-500 flex items-center mt-1"><Mail size={14} className="mr-2" /> admin@cablesense.com</p>
                         <div className="mt-3 flex space-x-2">
                             <span className="bg-cyan-500/20 text-cyan-600 px-3 py-1 rounded-full text-xs border border-cyan-500/30 flex items-center">
                                 <Shield size={12} className="mr-1" /> Super Admin
